@@ -1,5 +1,5 @@
 window.onload = () => {
   setTimeout(() => {
-    window.location.href = "https://vm.tiktok.com/ZGe1kMPPt/";
+    window.location.href = "https://tiktok.com/@findaapp/";
   }, 2000);
 };
